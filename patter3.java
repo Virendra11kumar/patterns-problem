@@ -1,3 +1,10 @@
+/* Pattern3:-
+    *
+   **
+  ***
+ ****
+*****
+*/
 public class patter3 { 
     public static void main(String[] args) {
         for (int i = 1; i <= 5; i++) {
@@ -13,3 +20,4 @@ if (j<=5-i) {
 }
     
 }
+
