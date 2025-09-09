@@ -1,3 +1,10 @@
+/* Pattern6:-
+12345
+1234
+123
+12
+1
+   */
 public class pattern6 {
     public static void main(String[] args) {
         for (int i = 5; i >0; i--) {
@@ -10,3 +17,4 @@ public class pattern6 {
     }
 }
 }
+
